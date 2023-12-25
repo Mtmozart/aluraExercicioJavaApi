@@ -1,0 +1,23 @@
+[
+  {
+    "cep": 76820124,
+    "street": "Rua Miguel Chakian",
+    "neighborhood": "Nova Porto Velho",
+    "city": "Porto Velho",
+    "uf": "RO"
+  },
+  {
+    "cep": 76802136,
+    "street": "Beco da Luta",
+    "neighborhood": "Nacional",
+    "city": "Porto Velho",
+    "uf": "RO"
+  },
+  {
+    "cep": 76801804,
+    "street": "Beco Israel",
+    "neighborhood": "Nacional",
+    "city": "Porto Velho",
+    "uf": "RO"
+  }
+]
